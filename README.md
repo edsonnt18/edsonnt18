@@ -1,3 +1,3 @@
-## Olá, sou Edson Ribeiro.
+## Olá, me chamo Edson Ribeiro.
 
-Sou estudante de BTI, na UFERSA.
+Sou desenvolvedor front-end.
